@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @christphr
-- 👀 I’m interested in engineering and remote sensing.
-- 🌱 I’m currently learning Java, Python and Visual Basic.
-- 💞️ I’m looking to collaborate on anyting and everything I am cabable of.
+- 👀 I’m interested in geotechnical engineering and remote sensing.
+- 🌱 I’m currently learning to programme. R, Java and Visual Basic have been my introduction.
 - 📫 How to reach me? Please send me a message.
 
 <!---
